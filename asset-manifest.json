@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/barnaghosh/Restaurent/static/css/main.cecbd24e.chunk.css",
+    "main.js": "/barnaghosh/Restaurent/static/js/main.3dc251ad.chunk.js",
+    "main.js.map": "/barnaghosh/Restaurent/static/js/main.3dc251ad.chunk.js.map",
+    "runtime-main.js": "/barnaghosh/Restaurent/static/js/runtime-main.a8265ca4.js",
+    "runtime-main.js.map": "/barnaghosh/Restaurent/static/js/runtime-main.a8265ca4.js.map",
+    "static/css/2.0e8a4c2b.chunk.css": "/barnaghosh/Restaurent/static/css/2.0e8a4c2b.chunk.css",
+    "static/js/2.403a54db.chunk.js": "/barnaghosh/Restaurent/static/js/2.403a54db.chunk.js",
+    "static/js/2.403a54db.chunk.js.map": "/barnaghosh/Restaurent/static/js/2.403a54db.chunk.js.map",
+    "static/js/3.7f5fc741.chunk.js": "/barnaghosh/Restaurent/static/js/3.7f5fc741.chunk.js",
+    "static/js/3.7f5fc741.chunk.js.map": "/barnaghosh/Restaurent/static/js/3.7f5fc741.chunk.js.map",
+    "index.html": "/barnaghosh/Restaurent/index.html",
+    "static/css/2.0e8a4c2b.chunk.css.map": "/barnaghosh/Restaurent/static/css/2.0e8a4c2b.chunk.css.map",
+    "static/css/main.cecbd24e.chunk.css.map": "/barnaghosh/Restaurent/static/css/main.cecbd24e.chunk.css.map",
+    "static/js/2.403a54db.chunk.js.LICENSE.txt": "/barnaghosh/Restaurent/static/js/2.403a54db.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/barnaghosh/Restaurent/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8265ca4.js",
+    "static/css/2.0e8a4c2b.chunk.css",
+    "static/js/2.403a54db.chunk.js",
+    "static/css/main.cecbd24e.chunk.css",
+    "static/js/main.3dc251ad.chunk.js"
+  ]
+}
